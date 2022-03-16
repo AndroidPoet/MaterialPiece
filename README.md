@@ -8,7 +8,7 @@
 
 
 <p align="center">  
-♎ Material Piece uses modern Android development tools Paging 3 ,Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.(Best practices).
+♎ Material Piece uses modern Android development tools Paging 3 ,Hilt, Material Motion Animations, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.(Best practices).
 </p>
 </br>
 
@@ -34,7 +34,7 @@ Go to the [Releases](https://github.com/AndroidPoet/MaterialPiece/releases) to d
 - [Glide](https://github.com/bumptech/glide), [GlidePalette](https://github.com/florent37/GlidePalette) - Loading images from network.
 - [Metaphor](https://github.com/AndroidPoet/Metaphor) - implementing Material Motion animations.
 - [Timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API.
-- [Material-Components](https://github.com/material-components/material-components-android) - Material design components for building ripple animation, and CardView.
+- [Material3-Components](https://github.com/material-components/material-components-android) - Material design components for building ripple animation, and CardView.
 
 ## MAD Score
 ![summary](https://user-images.githubusercontent.com/24237865/102366914-84f6b000-3ffc-11eb-8d49-b20694239782.png)
